@@ -1,0 +1,38 @@
+
+
+HELP INEXPERIENCED
+
+We are helping newbies. We will help, show and tell how RP works. No one will be left without attention.
+
+HIGH LEVEL RP
+
+Our administration is closely monitoring the proper level of Role Play
+
+PLAY AS YOU LIKE
+
+Large number of organizations: from medic, to media worker
+
+
+
+<style>
+@keyframes slide1 {
+  0%   { transform: translateX(0%);}
+  45%  { transform: translateX(0%);}
+  50%  { transform: translateX(100%);}
+  100%{ transform: translateX(100%);}
+
+ 
+}
+@keyframes slide2 {
+  0%   { transform: translateX(-100%);}
+  45%  { transform: translateX(-100%);}
+  50%  { transform: translateX(0%);}
+  95% { transform: translateX(0%);}
+  100% { transform: translateX(100%);}
+}
+
+#noti1{animation-name:slide1;animation-duration:30s;animation-timing-function:ease-in-out;animation-iteration-count:infinite;}
+#img2{animation-name:slide2;animation-duration:30s;animation-timing-function:ease-in-out;animation-iteration-count:infinite;}
+
+
+</style>
